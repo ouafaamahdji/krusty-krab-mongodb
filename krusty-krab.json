@@ -1,0 +1,11 @@
+{
+  "recipees": [
+    {"name": "Krabby Patty", "price": 3.99},
+    {"name": "Double Krabby Patty", "price": 5.49},
+    {"name": "Kelp Fries", "price": 1.99}
+  ],
+  "employee": [
+    {"name": "Spongebob Squarepants", "role": "Cook"},
+    {"name": "Valor", "role": "Security"}
+  ]
+}
