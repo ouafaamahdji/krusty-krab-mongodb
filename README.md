@@ -21,5 +21,4 @@ Le fichier `krusty-krab.json` contient toutes les données insérées dans la ba
 - MongoDB Shell
 - MongoDB Server
 
-## 5. Challenge complété par :
-**Ouafaa Mahdji**
+
